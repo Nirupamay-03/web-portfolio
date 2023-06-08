@@ -1,0 +1,19 @@
+
+/*/CSS Reset/*/
+*{
+	/*font - family: "Roboto", sans-serif;*/
+	font:1.2em "Fira Sans", serif;
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+.bg-navcolor {
+	background-color: #ECC5FB;
+}
+.d-flex {
+	display: flex;
+}
