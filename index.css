@@ -1,6 +1,7 @@
 
 /*/CSS Reset/*/
 *{
+	scroll-behavior: smooth;
 	/*font - family: "Roboto", sans-serif;*/
 	font:1.2em "Fira Sans", serif;
 	font-size: 18px;
